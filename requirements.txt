@@ -1,0 +1,9 @@
+pandas
+Pillow
+numpy
+pillow_heif
+tqdm
+matplotlib
+opencv-python
+ipywidgets
+torch
